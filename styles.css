@@ -1,0 +1,62 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    padding: 15px;
+    margin-left: 300px;
+    margin-right: 500px;
+    margin-top: 0%;
+    border-bottom: 2px solid #fd7e14;
+    background-color: #ced4da;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-bottom: 15px;
+    font-size: large;
+    margin-bottom: 50px;
+}
+
+ul {
+    margin: 308px;
+    padding: 20px;
+    font-size: large;
+}
+
+footer {
+    text-align: center;
+}
+
+h1 {
+    padding-bottom: 5px;
+    margin-left: 500px;
+}
+
+h3 {
+    margin-left: 500px;
+    color: #fd7e14;
+}
+
+h4 {
+    margin-left: 500px;
+}
+
+img {
+    margin-left: 500px;
+    margin-bottom: 15px;
+}
+
+.Imdb {
+    margin-left: 500px;
+    margin-bottom: 10px;
+}
+
+.kinopoisk {
+    margin-left: 500px;
+}
